@@ -16,7 +16,7 @@
   "description": "Order management backend API with Neon PostgreSQL",
   "dependencies": {
     "@neondatabase/serverless": "^1.0.2",
-    "@vercel/blob": "^2.0.0",
+    "@vercel/blob": "^2.3.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "drizzle-orm": "^0.45.0",
